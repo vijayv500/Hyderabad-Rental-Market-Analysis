@@ -71,3 +71,7 @@ fig.update_yaxes(
         mirror = True)
 
 fig.show()
+
+st.plotly_chart(fig)
+
+
